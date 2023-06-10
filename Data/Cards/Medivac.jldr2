@@ -1,0 +1,19 @@
+{
+	"name": "JSON_Medivac",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Medivac",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"energyCost": 0,
+	"abilities": ["jamesgames.inscryption.starcraftcore.Healing"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/medivac.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/medivac_emit.png",
+	"tribes": ["Canine"]
+}

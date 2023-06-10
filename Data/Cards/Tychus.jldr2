@@ -1,0 +1,21 @@
+{
+	"name": "JSON_Tychus",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Tychus",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"energyCost": 0,
+	"abilities": ["jamesgames.inscryption.starcraftcore.Splash Damage", "jamesgames.inscryption.terranmod.Summon Odin"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/tychus.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/tychus_emit.png",
+	"tribes": ["Canine"],
+	"onePerDeck": True,
+	"appearanceBehaviour": ["RareCardBackground"]
+}

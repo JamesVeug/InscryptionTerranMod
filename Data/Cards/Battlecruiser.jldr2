@@ -1,0 +1,20 @@
+{
+	"name": "JSON_Battlecruiser",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Battlecruiser",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 3,
+	"energyCost": 0,
+	"abilities": ["TriStrike", "Reach"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/battlecruiser.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/battlecruiser_emit.png",
+	"tribes": ["Canine"],
+	"appearanceBehaviour": ["RareCardBackground"]
+}

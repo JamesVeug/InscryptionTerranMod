@@ -1,0 +1,19 @@
+{
+	"name": "JSON_Cyclone",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Cyclone",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"energyCost": 0,
+	"abilities": [],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/cyclone.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/cyclone_emit.png",
+	"tribes": ["Canine"]
+}

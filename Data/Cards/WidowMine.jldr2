@@ -1,0 +1,19 @@
+{
+	"name": "JSON_WidowMine",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Widow Mine",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"energyCost": 0,
+	"abilities": ["Submerge"],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/widow_mine.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/widow_mine_emit.png",
+	"tribes": ["Canine"]
+}

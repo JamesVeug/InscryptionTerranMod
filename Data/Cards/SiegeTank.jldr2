@@ -1,0 +1,20 @@
+{
+	"name": "JSON_SiegeTank",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Siege Tank",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"energyCost": 0,
+	"abilities": ["Transformer", "jamesgames.inscryption.starcraftcore.Armored"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/siege_tank_unsieged.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/siege_tank_unsieged_emit.png",
+	"tribes": ["Canine"],
+	"evolveIntoName": "Terran_JSON_SiegeTankSieged"
+}

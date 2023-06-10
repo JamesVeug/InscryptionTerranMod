@@ -1,0 +1,19 @@
+{
+	"name": "JSON_AutoTurret",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "AutoTurret",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"boneCost": 2,
+	"energyCost": 0,
+	"abilities": [],
+	"metaCategories": [],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/auto_turret.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/auto_turret_emit.png",
+	"tribes": ["Canine"]
+}

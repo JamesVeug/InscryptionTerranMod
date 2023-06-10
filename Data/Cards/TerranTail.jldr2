@@ -1,0 +1,11 @@
+{
+	"name": "JSON_TerranTail",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Gauss Machine Gun",
+	"baseHealth": 1,
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/portrait_terran_tail.png"
+}

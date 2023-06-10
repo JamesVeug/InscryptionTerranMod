@@ -1,0 +1,19 @@
+{
+	"name": "JSON_Firebat",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Firebat",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"energyCost": 0,
+	"abilities": ["jamesgames.inscryption.starcraftcore.Splash Damage"],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/firebat.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/firebat_emit.png",
+	"tribes": ["Canine"]
+}

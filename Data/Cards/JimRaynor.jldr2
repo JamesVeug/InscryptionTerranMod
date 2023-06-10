@@ -1,0 +1,21 @@
+{
+	"name": "JSON_JimRaynor",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "JimRaynor",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"energyCost": 0,
+	"abilities": ["jamesgames.inscryption.terranmod.Marine Drop"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/jim_raynor.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/jim_raynor_emit.png",
+	"tribes": ["Canine"],
+	"onePerDeck": True,
+	"appearanceBehaviour": ["RareCardBackground"]
+}

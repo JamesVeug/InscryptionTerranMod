@@ -1,0 +1,19 @@
+{
+	"name": "JSON_Thor",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Thor",
+	"baseAttack": 2,
+	"baseHealth": 8,
+	"bloodCost": 3,
+	"energyCost": 0,
+	"abilities": ["GuardDog"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/thor.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/thor_emit.png",
+	"tribes": ["Canine"]
+}

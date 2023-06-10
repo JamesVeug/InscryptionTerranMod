@@ -1,0 +1,19 @@
+{
+	"name": "JSON_ScienceVessel",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "ScienceVessel",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"energyCost": 0,
+	"abilities": ["Reach", "jamesgames.inscryption.terranmod.Activate Irradiate"],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/science_vessel.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/science_vessel_emit.png",
+	"tribes": ["Canine"]
+}

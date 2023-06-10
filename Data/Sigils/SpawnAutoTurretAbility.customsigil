@@ -1,0 +1,21 @@
+{
+    "$id": 0,
+    "$type": "0|TerranMod.Scripts.Data.SpawnAutoTurretAbilityData, TerranMod",
+    "ruleBookName": "Spawn Auto Turret",
+    "ruleDescription": "Pay {boneCost} Bones to place an Auto Turret on the board. [define:Terran_JSON_AutoTurret]",
+    "power": 0,
+    "boneCost": 4,
+    "energyCost": 0,
+    "priority": 0,
+    "learnText": "",
+    "iconPath": "Artwork/Sigils/spawn_autoturret.png",
+    "metaCategories": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[DiskCardGame.AbilityMetaCategory, Assembly-CSharp]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            0,
+            1
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"name": "JSON_Ghost",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Ghost",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"energyCost": 0,
+	"abilities": ["Deathtouch"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/ghost.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/ghost_emit.png",
+	"tribes": ["Canine"]
+}

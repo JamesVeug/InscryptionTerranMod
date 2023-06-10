@@ -1,0 +1,20 @@
+{
+	"name": "JSON_Odin",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Odin",
+	"baseAttack": 5,
+	"baseHealth": 10,
+	"bloodCost": 4,
+	"energyCost": 0,
+	"abilities": [],
+	"metaCategories": [],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/odin.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/odin_emit.png",
+	"tribes": ["Canine"],
+	"appearanceBehaviour": ["RareCardBackground"]
+}

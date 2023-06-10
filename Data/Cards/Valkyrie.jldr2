@@ -1,0 +1,19 @@
+{
+	"name": "JSON_Valkyrie",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Valkyrie",
+	"baseAttack": 3,
+	"baseHealth": 2,
+	"bloodCost": 3,
+	"energyCost": 0,
+	"abilities": ["Flying", "jamesgames.inscryption.starcraftcore.Splash Damage"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/valkyrie.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/valkyrie_emit.png",
+	"tribes": ["Canine"]
+}

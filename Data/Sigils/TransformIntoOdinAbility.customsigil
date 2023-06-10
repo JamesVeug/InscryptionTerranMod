@@ -1,0 +1,21 @@
+{
+    "$id": 0,
+    "$type": "0|TerranMod.Scripts.Data.TransformIntoOdinAbilityData, TerranMod",
+    "ruleBookName": "Summon Odin",
+    "ruleDescription": "Pay 8 Bones to turn this card into an Odin. [define:Terran_JSON_Odin]",
+    "power": 0,
+    "boneCost": 8,
+    "energyCost": 0,
+    "priority": 0,
+    "learnText": "",
+    "iconPath": "Artwork/Sigils/transform_into_odin.png",
+    "metaCategories": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[DiskCardGame.AbilityMetaCategory, Assembly-CSharp]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            0,
+            1
+        ]
+    }
+}

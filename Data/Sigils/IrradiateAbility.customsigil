@@ -1,0 +1,20 @@
+{
+    "$id": 0,
+    "$type": "0|TerranMod.Scripts.Data.IrradiateAbilityData, TerranMod",
+    "ruleBookName": "Irradiate",
+    "ruleDescription": "At the end of your turn, the card bearing this sigil and its adjacent cards take 1 damage.",
+    "power": 0,
+    "priority": 0,
+    "learnText": "",
+    "iconPath": "Artwork/Sigils/irradiate.png",
+    "metaCategories": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[DiskCardGame.AbilityMetaCategory, Assembly-CSharp]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            0,
+            1
+        ]
+    },
+    "damagePerTurn": 1
+}

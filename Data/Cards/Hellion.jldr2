@@ -1,0 +1,20 @@
+{
+	"name": "JSON_Hellion",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Hellion",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"energyCost": 0,
+	"abilities": ["Transformer", "jamesgames.inscryption.starcraftcore.Splash Damage"],
+	"metaCategories": [],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/hellion.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/hellion_emit.png",
+	"tribes": ["Canine"],
+	"evolveIntoName": "Terran_JSON_Hellbat"
+}

@@ -1,0 +1,19 @@
+{
+	"name": "JSON_Raven",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Raven",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"energyCost": 0,
+	"abilities": ["jamesgames.inscryption.starcraftcore.Detector", "jamesgames.inscryption.terranmod.Spawn Auto Turret"],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/raven.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/raven_emit.png",
+	"tribes": ["Canine"]
+}

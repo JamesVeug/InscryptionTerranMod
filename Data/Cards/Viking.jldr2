@@ -1,0 +1,19 @@
+{
+	"name": "JSON_Viking",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Viking",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"energyCost": 0,
+	"abilities": ["Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/viking.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/viking_emit.png",
+	"tribes": ["Canine"]
+}

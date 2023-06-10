@@ -1,0 +1,19 @@
+{
+    "$id": 0,
+    "$type": "0|TerranMod.Scripts.Data.SpiderMineAbilityData, TerranMod",
+    "ruleBookName": "Spawn Spider Mine",
+    "ruleDescription": "At the end of the owner's turn, the card bearing this sigil will move in the direction inscrybed and leave behind a Spider Mine.",
+    "power": 0,
+    "priority": 0,
+    "learnText": "",
+    "iconPath": "Artwork/Sigils/strafe_spidermine.png",
+    "metaCategories": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[DiskCardGame.AbilityMetaCategory, Assembly-CSharp]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            0,
+            1
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"name": "JSON_Hellbat",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Hellbat",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"energyCost": 0,
+	"abilities": ["Transformer"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/hellbat.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/hellbat_emit.png",
+	"tribes": ["Canine"],
+	"evolveIntoName": "Terran_JSON_Hellion"
+}

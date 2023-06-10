@@ -1,0 +1,19 @@
+{
+	"name": "JSON_Marine",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Marine",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"energyCost": 0,
+	"abilities": ["jamesgames.inscryption.starcraftcore.Stimpack"],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/marine.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/marine_emit.png",
+	"tribes": ["Canine"]
+}

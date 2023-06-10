@@ -1,0 +1,20 @@
+{
+	"name": "JSON_Mule",
+	"modPrefix": "Terran",
+	"decals": ["JamesGames-TerranMod/Artwork/watermark.png"],
+	"displayedName": "Mule",
+	"baseAttack": 0,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"energyCost": 0,
+	"abilities": ["TripleBlood"],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Terran_JSON_TerranTail",
+	"description": "",
+	"texture": "JamesGames-TerranMod/Artwork/Cards/mule.png",
+	"emissionTexture": "JamesGames-TerranMod/Artwork/Cards/mule_emit.png",
+	"tribes": ["Canine"],
+	"traits": ["Goat"]
+}
